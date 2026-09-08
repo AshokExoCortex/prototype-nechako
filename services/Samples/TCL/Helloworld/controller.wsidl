@@ -1,0 +1,6 @@
+
+interface Helloworld
+{
+	string	TODO( string arg1 );
+};
+

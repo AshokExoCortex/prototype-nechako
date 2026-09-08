@@ -1,0 +1,8 @@
+<WebServiceManifest>	
+	<Description>Helloworld Library</Description>	
+	<WSIDL>controller.wsidl</WSIDL>	
+	<ClassID>701acf14-238c-F745-91fb-1a4a56997512</ClassID>
+	<Type>Script</Type>	
+	<Language>TCL</Language>	
+	<Source>controller.tcl</Source>
+</WebServiceManifest>
