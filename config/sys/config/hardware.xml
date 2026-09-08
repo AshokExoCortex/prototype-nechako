@@ -1,0 +1,9 @@
+<HardwareInformation>
+	<Processors/>
+	<ProcessorCacheSize>512 KB</ProcessorCacheSize>
+	<ProcessorSpeed>2.0 GHz</ProcessorSpeed>
+	<ProcessorModel/>
+	<DevicesIDE>Seagate Cheetah EIDE ST32796 (Capacity: 27.96 GB)</DevicesIDE>
+	<DevicesPCI/>
+	<DevicesSCSI/>
+</HardwareInformation>

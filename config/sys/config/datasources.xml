@@ -1,0 +1,25 @@
+<DataSources>
+	<Sources>
+		<DataSource>
+			<Name>MySQL-example</Name>
+			<ConnectString>DRIVER={MySQL};uid=username;pwd=Z@$AF131;server=localhost;database=support;</ConnectString>
+		</DataSource>
+		<DataSource>
+			<Name>Postgre-example</Name>
+			<ConnectString>DRIVER={PostgreSQL};uid=username;pwd=!@#afa123;server=localhost;database=example-dbname;</ConnectString>
+		</DataSource>
+
+		<DataSource>
+			<Name>plexus.syslog</Name>
+			<ConnectString>DRIVER={SQLite};DBQ=$(CLUSTER_DIR)/plexus/db/syslog.s3db;</ConnectString>
+		</DataSource>
+		<DataSource>
+			<Name>plexus.workflow</Name>
+			<ConnectString>DRIVER={SQLite};DBQ=$(CLUSTER_DIR)/plexus/db/cwwflow.s3db</ConnectString>
+		</DataSource>		
+		<DataSource>
+			<Name>plexus.proc</Name>
+			<ConnectString>DRIVER={SQLite};DBQ=$(CLUSTER_DIR)/plexus/db/proc.s3db</ConnectString>
+		</DataSource>		
+	</Sources>
+</DataSources>	
