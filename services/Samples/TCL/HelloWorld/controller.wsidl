@@ -1,5 +1,5 @@
 
-interface Helloworld
+interface HelloWorld
 {
 	string	TODO( string arg1 );
 };

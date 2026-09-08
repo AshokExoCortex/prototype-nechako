@@ -1,5 +1,5 @@
 <WebServiceManifest>	
-	<Description>Helloworld Library</Description>	
+	<Description>HelloWorld Library</Description>	
 	<WSIDL>controller.wsidl</WSIDL>	
 	<ClassID>D843d14d-80ce-A544-880e-Bcc7c07364d0</ClassID>
 	<Type>Script</Type>	

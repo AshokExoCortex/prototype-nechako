@@ -1,5 +1,5 @@
 
 
-function Helloworld__TODO( arg1 )
+function HelloWorld__TODO( arg1 )
 	return arg1
 end

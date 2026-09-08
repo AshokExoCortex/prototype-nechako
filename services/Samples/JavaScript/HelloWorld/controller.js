@@ -1,5 +1,8 @@
 
 
-(define (Helloworld__TODO arg1)
-  arg1)
+function HelloWorld__TODO( arg1 )
+{
+	return 'Javascript:'+arg1
+}
+
 

@@ -1,5 +1,5 @@
 
 
-function $$Model$$__TODO( arg1 )
-	return arg1
-end
+proc HelloWorld__TODO { arg1 } { 
+    return "TCLaaa:$arg1"
+}

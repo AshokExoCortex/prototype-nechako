@@ -1,8 +1,8 @@
 <WebServiceManifest>	
-	<Description>Helloworld Library</Description>	
+	<Description>HelloWorld Library</Description>	
 	<WSIDL>controller.wsidl</WSIDL>	
 	<ClassID>Dc770df4-5b4a-E14f-883d-2f18c67166e0</ClassID>
 	<Type>Script</Type>	
 	<Language>JScript</Language>	
-	<Source>controller.sch</Source>
+	<Source>controller.js</Source>
 </WebServiceManifest>
