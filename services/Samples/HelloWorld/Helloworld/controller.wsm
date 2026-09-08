@@ -1,0 +1,8 @@
+<WebServiceManifest>	
+	<Description>Helloworld Library</Description>	
+	<WSIDL>controller.wsidl</WSIDL>	
+	<ClassID>9fac26e5-6d31-4747-Ad60-85dd3559d78c</ClassID>
+	<Type>Script</Type>	
+	<Language>Lua</Language>	
+	<Source>controller.lua</Source>
+</WebServiceManifest>
